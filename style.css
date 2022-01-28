@@ -1,0 +1,90 @@
+.logo-img{
+    height: 80px;
+    width: 100px;
+}
+.naeem{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 0px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.first{
+    background-color: orange;
+    padding: 10px 30px;
+  
+}
+.second{
+    background-color:#FF589B;
+    padding: 10px 30px;
+  
+}
+
+.third{
+    background-color: blue;
+    padding: 10px 30px;
+    
+
+}
+.categories{
+    margin-top: 80px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    height: 100px;
+}
+
+.my-shoes{
+    margin-top: 40px;
+    border: none;
+    
+}
+.col{
+    
+    box-shadow: 5px 5px 5px  #ddd;
+}
+.image img{
+    height: 150px;
+}
+.packpack{
+    margin-top: 80px;
+}
+
+.image2 img{
+    height: 200px;
+    width: 200px;
+    margin-left: 80px;
+    
+}
+
+#subscriber{
+    margin-top: 60px;
+    height: 300px;
+}
+#subscriber h6{
+    color: gray;
+}
+
+footer{
+    margin-top: 15px;
+    margin-left: 105px;
+    text-align: center;
+    height: 30px;
+    width: 1140px;
+    background-color: gray;
+    color: white;
+}
